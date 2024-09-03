@@ -7,7 +7,7 @@
       b-collapse#nav-collapse(is-nav)
         b-navbar-nav
           b-nav-item(to='/list') 清單
-          b-nav-item(to='/settings') 設定111
+          b-nav-item(to='/settings') 設定
   keep-alive
     router-view
 </template>
